@@ -1,11 +1,11 @@
-Amazon Customer Reviews Clustering - Natural Language Processing and Topic Modeling
+##Bank Customer Churn Prediction
 
-This project utilizes Natural Language Processing (NLP) techniques and Topic Modeling algorithms to analyze and cluster Amazon customer reviews. It was conducted over a span of two months, from May to June 2022.
+This project involves developing algorithms to predict the probability of customer churn for a bank. The models are developed in Python and utilize various supervised machine learning algorithms. The project was conducted over two months, from April to May 2022.
 
 Project Highlights
 
-Clustered Amazon customer reviews using Python.
-Preprocessed a dataset containing 960,000 reviews through tokenization, stemming, and stop word removal.
-Extracted 239 features using the Term Frequency-Inverse Document Frequency (TF-IDF) technique.
-Trained unsupervised models, including K-means clustering and Latent Dirichlet Allocation (LDA), to identify topics and keywords in the reviews.
-Analyzed insights and derived potential business value from clustered reviews.
+Development of predictive models for customer churn probability for a bank using Python.
+Preprocessing of a dataset containing 10,000 records, which included categorical feature transformation and standardization.
+Training of supervised machine learning models, including Logistic Regression, Random Forest, and K-Nearest Neighbors (KNN).
+Application of L2 regularization with optimal parameters to prevent model overfitting.
+Evaluation of model performance using techniques such as k-fold cross-validation, confusion matrix, Receiver Operating Characteristic (ROC) curve, and Area Under the Curve (AUC).

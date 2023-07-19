@@ -1,4 +1,4 @@
-##Bank Customer Churn Prediction
+Bank Customer Churn Prediction
 
 This project involves developing algorithms to predict the probability of customer churn for a bank. The models are developed in Python and utilize various supervised machine learning algorithms. The project was conducted over two months, from April to May 2022.
 
